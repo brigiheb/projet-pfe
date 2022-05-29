@@ -1,0 +1,35 @@
+.cardCenter {
+    width: 88%;
+    margin-left: 11%;
+    padding-top: 70px;
+}
+
+.formCenter {
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.toRight {
+    margin-left: 5%;
+}
+
+.arrow {
+    margin-left: 90%;
+}
+
+.Left {
+    margin-right: 1%;
+    margin-left: 1%;
+}
+.text {
+    overflow: hidden ;
+    
+    line-height: 16px;
+    /* fallback */
+    
+    /* fallback */
+    -webkit-line-clamp: 1;
+    /* number of lines to show */
+    -webkit-box-orient: vertical;
+  }

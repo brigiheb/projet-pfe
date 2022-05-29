@@ -1,0 +1,17 @@
+.cardCenter{
+    width: 88%;
+    margin-left: 6%;
+    padding-top: 70px;
+}
+
+.formCenter{
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+}
+.toRight{
+    margin-left: 5%;
+  }
+.Right{
+    margin-left: 6%;
+  }
